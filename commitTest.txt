@@ -3,4 +3,8 @@ Second add  ------------2--------
 
 idea branch commit test ----3----
 
+<<<<<<< HEAD
 master
+=======
+idea
+>>>>>>> origin/idea
